@@ -17,3 +17,4 @@ Os headers são marcados com o símbolo '#'. Os mesmos têm 6 níveis ue são in
 ###### h6
 
 ## Parágrafo com destaque
+## Itálicos, Negritos e Negritos Itálicos
