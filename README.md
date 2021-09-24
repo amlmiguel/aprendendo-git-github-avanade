@@ -20,3 +20,6 @@ Os headers são marcados com o símbolo '#'. Os mesmos têm 6 níveis ue são in
 ## Itálicos, Negritos e Negritos Itálicos
 
 ## Criação de hyperlinks
+
+## Criando snippets de código
+para criar snippets de código.....
